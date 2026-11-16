@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-boot-dependency"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS boot-dependency component - boot"
+
+[lib]
+name = "boot_dependency"
+path = "src/lib.rs"
