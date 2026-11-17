@@ -3,7 +3,7 @@ name = "SigmaOS-boot-dependency"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "boot-dependency component"
+description = "boot dependency component"
 upstream = []
 
 [contract]
